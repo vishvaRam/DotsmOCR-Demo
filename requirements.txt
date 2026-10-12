@@ -1,0 +1,12 @@
+pymupdf
+pillow
+uv
+openai
+python-dotenv
+tqdm
+ruff
+requests
+pydantic
+fastapi
+uvicorn
+python-multipart
